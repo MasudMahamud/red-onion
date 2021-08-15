@@ -1,7 +1,7 @@
 import React from 'react';
 import './PlaceOrder.css';
 import map from '../../image/map.png';
-import DeliveryBoy from '../../image/Image/Deliveryman.png';
+import DeliveryBoy from '../../image/Image/deliveryMan.png';
 import Avatar from '../../image/ICON/Avatar.png';
 
 const PlaceOrder = (props) => {
