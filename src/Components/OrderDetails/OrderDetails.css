@@ -1,0 +1,32 @@
+.deliver-product {
+    display: flex;
+}
+.deliver-product img{
+    width:60px;
+    margin-right: 8px;
+}
+.deliver-product-info{
+    margin-left: 14px;
+    display: grid;
+}
+.deliver {
+    color: #6c1313;
+    background-color: #c3c3c3;
+    padding: 20px;
+    margin-bottom: 20px;
+    border-radius: 5px;
+}
+.remove-btn {
+    height: 32px;
+    margin-left: 14px;
+    background-color: red;
+    color: #fff9f7;
+    font-weight: 800;
+    width: 30px;
+    border: none;
+    margin-right: 35px;
+}
+.cart {
+    display: inline-flex;
+    text-align: center;
+}

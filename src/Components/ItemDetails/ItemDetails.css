@@ -1,0 +1,47 @@
+.main{
+    width: 100%;
+}
+.half {
+    margin-top: 120px;
+}
+.half img{
+    width:90%
+}
+
+.content {
+    margin-left: 80px;
+    color:#876400;
+    text-align: start;
+}
+.mini-image img {
+    width: 100px;
+    margin-top: 68px;
+    float: left;
+    margin-right: 15px;
+}
+.cart-quantity {
+    display: flex;
+    margin-bottom: 25px;
+}
+.cart-btn{
+        background-color: #221210;
+        border-radius: 100px;
+        text-align: center;
+        color: rgb(246 255 229);
+        margin-left: 25px;
+        padding: 0px 12px 0px 12px;
+        margin-right: 10px;
+        height: 34px;
+}
+.cart-btn:hover{
+    background-color: white;
+    color:black;
+}
+.price-box{
+    background-color: black;
+    color: azure;
+    padding: 3px;
+    height: 30px;
+    width: 70px;
+    text-align: center;
+}

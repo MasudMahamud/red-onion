@@ -1,0 +1,9 @@
+.order-cart{
+    height:16%
+}
+.cart-info{
+    float: left;
+}
+.cart-price{
+    float: right;
+}

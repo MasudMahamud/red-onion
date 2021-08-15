@@ -1,0 +1,31 @@
+.ship-form{
+    margin:30px 100px
+}
+
+.ship-form input{
+    display:block;
+    margin-top: 30px;
+    padding:5px;
+    border:1px solid red;
+    border-radius: 4px;
+    width: 300px;
+}
+
+.error{
+    color:red;
+    font-size: 12px;
+}
+
+button.place-order-btn {
+    background-color: black;
+    color: azure;
+    padding: 8px;
+    border-radius: 5px;
+}
+
+button.place-order-btn:hover {
+    background-color: rgb(45, 35, 189);
+    color: rgb(238, 245, 245);
+    padding: 8px;
+    cursor: pointer;
+}

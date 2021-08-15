@@ -1,0 +1,31 @@
+.my-nav img {
+    width: 110px;
+    margin-left: 50px;
+    float: left;
+}
+.div{
+justify-content: flex-end;
+margin-right: 45px;
+margin-left: 50px;
+font-family:cursive;
+font-size:12px
+}
+.nav-title img {
+    width: 25px;
+    margin-right: 25px;
+    margin-left: 0px;
+    
+}
+#sign-up-btn {
+    background-color: #f42f1873;
+    border-radius: 100px;
+    text-align:center;
+    color: rgb(240, 241, 237);
+    margin-left:15px;
+    padding: 5px 12px 5px 12px;
+}
+#sign-up-btn:hover{
+    background-color:#eee3de;
+    color:black;
+    cursor: pointer;
+}

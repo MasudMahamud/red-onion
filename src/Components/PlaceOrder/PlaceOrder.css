@@ -1,0 +1,67 @@
+.deliver-image img {
+    width: 40px;
+    margin: 0px 10px ;
+}
+    
+.deliver {
+    background-color: #eaeaea;
+    color: blueviolet; 
+    margin-left: 5px;  
+    margin-top: 18px; 
+}
+.deliver-location {
+    background-color: azure;
+    padding: 10px;
+    border-radius: 3px;
+    
+  
+}
+.customer-location {
+    display: inline-grid;
+    margin-bottom: 18px;
+    color: #bc0707;
+    border-left: 1px solid red;
+    margin-left: 5px;
+    padding: 5px;
+}
+.shop-location {
+    display: grid;
+    margin-bottom: 18px;
+    color: #bc0707;
+    border-left: 1px solid red;
+    margin-left: 5px;
+    padding: 5px;
+}
+.small {
+    color: #4d4b60;
+    margin: 4px;
+}
+
+.delivery-time {
+    color: darkblue;
+    margin-top: 5px;
+}
+.raider {
+    display: flex;
+    background-color: aliceblue;
+    padding: 4px;
+    color: brown;
+}
+.raider img {
+    width: 40px;
+}
+.raider-info {
+    margin-left: 35px;
+    display: inline-grid;
+}
+.order-btn{
+    margin-top: 10px;
+    text-align: center;
+    background-color: #bc0707;
+    color: rgb(240, 228, 228);
+    border-radius: 3px;
+}
+.order-btn:hover{
+    background-color:white;
+    color:black
+}
